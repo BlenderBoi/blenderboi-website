@@ -1,0 +1,280 @@
+
+:root {
+
+  --bg0: #282828;
+  --bg1: #3c3836;
+  --bg2: #504945;
+  --bg3: #665c54;
+
+
+  --fc0: #fbf1c7;
+  --lc0: #98971a;
+  --lc0-hover: #b8bb26;
+
+
+
+  --accent0: #98971a;
+  --accent0-hover: #b8bb26;
+
+  --accent1: #fe8019;
+  --accent1-hover: #d65d0e;
+
+
+  /* --bg1: #ffffff; */
+  /* --bg0: #eeeeee; */
+  /* --bg2: #bcbcbc; */
+  /* --fc0: black; */
+  /* --lc0: black; */
+  /* --lc0-hover: black; */
+
+
+}
+
+
+
+
+button {
+  background-color: var(--bg1);
+  padding: 0.1em 1em;
+  margin: 0.5em;
+  color: var(--fc0);
+  border: 1px solid var(--fc0);
+  font-size: 1em;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+input[type=text]{
+
+  border-radius: 0.5em;
+  padding: 1.2em 0em;
+  margin-top: 0.5em;
+  padding-left: 1em;
+  margin-left: 1em;
+  height: 2em;
+  background-color: var(--bg0);
+  color: var(--fc1);
+  border: 2px solid var(--bg2);
+  outline: none;
+  font-size: 1em;
+  width: 30em;
+
+}
+
+
+
+
+@font-face {
+  font-family: "DejaVuSans";
+  src: url("../fonts/DejaVuSans/DejaVuSans.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DejaVuSans";
+  src: url("../fonts/DejaVuSans/DejaVuSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+body{
+  background-color: var(--bg0);
+  color: var(--fc0);
+}
+
+*{
+
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  line-height: 2;
+  font-family: "DejaVuSans";
+}
+
+
+        img{
+
+          max-width: 1000px;
+
+        }
+
+a {
+  color: var(--lc0);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+
+
+a:hover {
+  color: var(--lc0-hover);
+  text-decoration: none;
+}
+
+
+
+    
+
+
+
+
+
+
+
+img{
+  max-width: 100%;
+  object-fit: cover;
+}
+
+pre {
+
+  border: 0.1em solid var(--fc0);
+  padding: 1.2em;
+}
+
+code {
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  width: 100px;
+}
+
+
+
+  hr {
+
+    color: var(--fc0);
+    margin:3em 0;
+
+  }
+  p{padding: 1.5em;}
+
+  h2{
+    background-color: var(--bg1);
+    padding-left: 1.5em;
+  }
+
+
+    
+
+
+h1{font-weight: bold;}
+h2{font-weight: bold;}
+h3{font-weight: bold;}
+h4{font-weight: bold;}
+
+
+table, td, th{
+  border: 1px solid var(--fc0);
+  border-collapse: collapse;
+  padding: 1em;
+  text-align: left;
+  vertical-align: top;
+}
+
+th{
+  font-weight: bold;
+}
+
+
+.download-button{
+
+  font-size: 2em;
+  height: 2.5em;
+  margin: 0;
+  width: 100%;
+  font-weight: bold;
+  background-color: var(--accent1);
+  border-radius: 0.5em;
+}
+
+.download-button:hover{
+
+  background-color: var(--accent1-hover)
+}
+
+.banner-title{
+  color: var(--fc0);
+  text-align: left;
+  font-weight: bold;
+  font-size: 1.1em;
+
+}
+
+.quick-download{
+
+  color: var(--fc0);
+  background-color: var(--accent1-hover)
+
+}
+.quick-download:hover{
+
+
+  color: var(--fc0);
+  background-color: var(--accent1)
+}
+
+
+/* .banner-title:hover{ */
+
+/*   color: var(--accent0); */
+/* } */
+
+.card{
+
+  background-color: var(--bg2);
+  box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.3);
+  height: 21em;
+  padding: 0.5em;
+  text-align: center;
+
+}
+
+
+.card:hover{
+
+
+}
+
+.thumbnail{
+
+  height: 12em;
+
+}
+
+.card:hover .thumbnail{
+
+  /* background-color: var(--bg2); */
+  /* filter: brightness(150%); */
+
+}
+header{
+
+  z-index: 2;
+
+}
+.icon{
+  color: var(--fc0); 
+  font-size: 1.5em; 
+  padding: 0 0.5em;
+
+}
+
+.icon:hover{
+
+  color: var(--accent0)
+
+}
+

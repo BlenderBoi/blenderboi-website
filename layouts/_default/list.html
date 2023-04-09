@@ -1,0 +1,34 @@
+
+{{ define "main" }}
+
+    <div style="display: flex; background-color: var(--bg2); justify-content: center;">
+      <div style="background-color: var(--bg0); padding: 0 5em; width: 1300px; max-width: 1300px; word-wrap: break-word; overflow-wrap: break-word;">
+
+      {{ .Content }}
+
+      <h1 style="padding: 1em 0;">Blender Addons</h1>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1em;" >
+      {{ range sort site.RegularPages "Params.priority" "asc"}}
+      <div>
+          <a href="{{.Permalink}}">
+            <div class="card" style="display: flex; flex-direction: column; justify-content: space-between;">
+                <img class="thumbnail" src={{.Params.banner}}></img>
+              <span class="banner-title">{{.Title}}</span>
+              <a href="{{.Params.download}}" class="quick-download" style="display: flex; align-items: center; justify-content: center;">
+
+              <iconify-icon icon="ic:baseline-file-download"></iconify-icon>
+                Download
+              </a>
+            </div>
+          </a>
+      </div>
+    
+      {{end}}
+      </div>
+      </div>
+      </div>
+
+{{end}}
+
+
