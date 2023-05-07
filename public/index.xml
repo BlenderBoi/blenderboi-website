@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlenderBoi</title>
+    <link>https://blenderboi.com/</link>
+    <description>Recent content on BlenderBoi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://blenderboi.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Batch Recursive Import</title>
+      <link>https://blenderboi.com/batchrecursiveimport/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/batchrecursiveimport/</guid>
+      <description>Batch Recursive Import is a Wrapper Addon that Helps Import Multiple Files in a Folders Recursively (Including Subfolder)
+Currently This Addon Can Wraps Around
+Import FBX Import OBJ Helpful Features The Section Highlighted in Red Box is Added by this Addon, The Rest of the Setting is the Same Thing as it&amp;rsquo;s respective Build in Settings, It will be passed as it is to the built-in Operator
+This Addon Add two settings to help you in Importing Your Files</description>
+    </item>
+    
+    <item>
+      <title>Batch Rename Vertex Groups</title>
+      <link>https://blenderboi.com/batchrenamevertexgroups/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/batchrenamevertexgroups/</guid>
+      <description>This add-on allows you to batch rename vertex groups, perfect for when you mess up vertex group or bone naming conventions!
+Features Main Functions This add-on has 4 settings:
+Prefix Adds text to the beginning of the vertex group name(s)
+Suffix Adds text to the end of the vertex group name(s)
+Remove Removes the given text from the vertex group name(s)
+Replace Replaces a specified part of the vertex group name(s) with the given text</description>
+    </item>
+    
+    <item>
+      <title>Bonera</title>
+      <link>https://blenderboi.com/bonera/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/bonera/</guid>
+      <description>Bonera is an addon that provide a Set of Tool to Help to speed up the tedious part that is in the Manual Rigging Process. The addon turned some of the more repetitive operator that sometimes solves using Simple Python script packed into a Toolkit Addon.
+You Can Find Out All the Features in Bonera Documentation
+Your browser does not support the video tag. Instead of a full rigging system, Bonera seeks to be the “Wrench and Screwdrivers” of your rigging process.</description>
+    </item>
+    
+    <item>
+      <title>Command On Selected</title>
+      <link>https://blenderboi.com/commandonselected/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/commandonselected/</guid>
+      <description>Command On Selected Is A Simple Blender Addon that Allows you to Run Blender Operator to Selected Objects While It is much better to use the Console if You know What you are doing, this is more &amp;ldquo;Non Coder Friendly&amp;rdquo; of Looping a Operator over Selected Objects
+What it Does Under the Hood is It will Make Each Selected Object into Active one by one and Run the Command You Provided</description>
+    </item>
+    
+    <item>
+      <title>Convert Selected Mesh To Bounding Mesh</title>
+      <link>https://blenderboi.com/convertselectedmeshtoboundingmesh/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/convertselectedmeshtoboundingmesh/</guid>
+      <description> This is a Simple Addon that converts selected Mesh Object to Bounding Cube Mesh
+Before After </description>
+    </item>
+    
+    <item>
+      <title>Favorite Collections</title>
+      <link>https://blenderboi.com/favoritescollection/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/favoritescollection/</guid>
+      <description>Favorite Collection is a Simple Addon that lets you put your most used Collection into a list in your side panel.
+You can Hide / Unhide Viewport or Render, Enable / Disable Select for the Collection, and You can Select the Objects in the Collection
+The Addon Also List Objects in the Collection, which might or might not be useful</description>
+    </item>
+    
+    <item>
+      <title>Frame Ranger</title>
+      <link>https://blenderboi.com/frameranger/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/frameranger/</guid>
+      <description>Frame Ranger is a blender add-on that helps manages Object&amp;rsquo;s Action, Timeline Markers, Frame Range and more
+Your browser does not support the video tag. This Add-on Consist of Multiple Sections, You can Turn On / Off Based On Your Needs in the Preferences
+Feature Overview Object Action Manager Stores Actions in Object so that you can associate actions to a object, and switch the object&amp;rsquo;s action easily. It Also Comes With Many Other Feature that can be useful</description>
+    </item>
+    
+    <item>
+      <title>Group Selected Objects To Collection By Types</title>
+      <link>https://blenderboi.com/groupobjecttocollectionbytypes/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/groupobjecttocollectionbytypes/</guid>
+      <description>Group Selected Objects into Multiple Collection By Types.
+Settings Move to Collection will Move the Objects to new collection, while add to collection will not remove the object from existing collection
+Preferences You can Set The Collection Color in Preferences</description>
+    </item>
+    
+    <item>
+      <title>Human Primitive</title>
+      <link>https://blenderboi.com/humanprimitives/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/humanprimitives/</guid>
+      <description>Human Primitive is a Addon that adds Human Base Mesh and tedious or commonly use Human Body Parts as Primitive into the Add Mesh Menu.
+Your browser does not support the video tag. The purpose of the addon is to add Simple Human / Human Parts as a Primitive, so this is not a highly customizable Human Maker, instead this is a Simple Human Mesh Primitive, focusing on lower poly models, with different detail level / topology style to start from.</description>
+    </item>
+    
+    <item>
+      <title>Pseudo Object Layer</title>
+      <link>https://blenderboi.com/pseudoobjectlayers/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/pseudoobjectlayers/</guid>
+      <description>Pseudo Object Layer is an Blender Addon that helps you to do a &amp;ldquo;Quick and Dirty&amp;rdquo; object grouping with some utility function that helps on working with the object. You can Hide, Lock, Solo, Disable Modifier the object in the layer and many more.
+This addon is meant to be a Quick and Dirty Layer System, for temporary use so that you are not overwhelmed by everything in the outliner.</description>
+    </item>
+    
+    <item>
+      <title>Radiant</title>
+      <link>https://blenderboi.com/radiant/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/radiant/</guid>
+      <description>Radiant is a Addon that helps manage your lights in your scene through the side panel. There are also a few other feature provided for lighting needs in Radiant
+This Addon Only works for Blender 3.0 and Above, It will crash your blender if you use Raymesh in Blender 2.9x and below Your browser does not support the video tag. Raymesh Raymesh is Fake &amp;ldquo;Light Ray / Glow&amp;rdquo; that is Geometry and Shader Based, It Attempt to Emulate the Volumetric Look</description>
+    </item>
+    
+    <item>
+      <title>Sculpt Smooth Brush Slider</title>
+      <link>https://blenderboi.com/sculptsmoothbrushslider/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/sculptsmoothbrushslider/</guid>
+      <description>This Addon Adds a Slider in sculpt mode that Controls the Smooth Strength when you hold shift, regardless of which brush you are using</description>
+    </item>
+    
+    <item>
+      <title>Smooth Preview</title>
+      <link>https://blenderboi.com/smoothpreview/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/smoothpreview/</guid>
+      <description>Smooth preview is an addon intended to emulate the &amp;ldquo;3&amp;rdquo; in maya. It toggles the the subdivision surface of multiple objects. Works on multiple selected objects
+It adds Smooth On / Off and Modifier On / Off there is a Drop Down you can use to Set the Subdivision Level and a Button to Apply the Subdivision / Modifiers
+The Addon Also expose the Wireframe Overlay for more easier toggle</description>
+    </item>
+    
+    <item>
+      <title>Tool Pie Menu</title>
+      <link>https://blenderboi.com/toolpiemenu/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/toolpiemenu/</guid>
+      <description> Add A Pie Menu that overwrites your Space bar with tool pie to help switching tools easily
+This addon is made based on BlenderBoi&amp;rsquo;s Preferences
+Mode The Pie will change based on what Mode You Are in
+Object Mode &amp;amp; Edit Mode Sculpt Mode Texture Paint Mode Vertex Paint Mode Weight Paint Mode </description>
+    </item>
+    
+    <item>
+      <title>Vertex Group Utils</title>
+      <link>https://blenderboi.com/vertexgrouputils/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/vertexgrouputils/</guid>
+      <description>Vertex Group Utils is an add-on that adds utility to blender&amp;rsquo;s vertex group. It adds many feature that turn vertex group into a tool for you to use in modelling process. This add-on can help you manage your meshes in edit mode by letting you to hide and unhide mesh base using vertex group.
+IMPORTANT!: This Addon Does not work very well with High Vertex Count Model
+Vertex Group Tools Highlighed Features Create Vertex Group Quickly with less click Solo, Hide / Unhide, Select / Deselect Part of mesh using Vertex Group Join Objects as Vertex Groups Separate Vertex Group into Objects Material to Vertex Group Set Origin to Vertex Group Merge Vertex Group And More</description>
+    </item>
+    
+    <item>
+      <title>Viewfinder</title>
+      <link>https://blenderboi.com/viewfinder/</link>
+      <pubDate>Sat, 08 Apr 2023 16:12:09 +0800</pubDate>
+      
+      <guid>https://blenderboi.com/viewfinder/</guid>
+      <description>Viewfinder is an Addon that Helps provides Utility and Camera Related Tools. It Helps With Managing Cameras In Your Scene
+Your browser does not support the video tag. Camera Preview You can Preview Your Camera inside your Viewport Visually
+Note: Cycles Render will not show in Camera Preview Your browser does not support the video tag. Limitation! If you Use Left Click Select, it Might Make Gizmo Unclickable, to fix this problem, Make Sure to Change Your</description>
+    </item>
+    
+  </channel>
+</rss>
