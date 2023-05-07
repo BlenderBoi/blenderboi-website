@@ -4,13 +4,13 @@
 
       {{ .Content }}
 
-      <h1 style="padding: 1em 0;">Blender Addons</h1>
+      <h1 style="padding: 1em 0; text-align: center">Blender Addons</h1>
 
       <div class="list-grid">
       {{ range sort site.RegularPages "Params.priority" "asc"}}
       <div>
           <a href="{{.Permalink}}">
-            <div class="card" style="max-width: 20em; display: flex; flex-direction: column; justify-content: space-between;">
+            <div class="card" style="display: flex; flex-direction: column; justify-content: space-between;">
               <img class="thumbnail" src={{.Params.banner}}></img><br>
               <span class="banner-title">{{.Title}}</span>
               <a href="{{.Params.download}}" class="quick-download" style="display: flex; align-items: center; justify-content: center;">

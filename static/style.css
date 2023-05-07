@@ -234,8 +234,8 @@ th{
 
 .card{
 
-  max-width: 100%;
-  min-width: 25em;
+  max-width: 22em;
+  min-width: 22em;
   background-color: var(--bg2);
   box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.3);
   height: 21em;
@@ -281,6 +281,8 @@ header{
   position: sticky;
   background-color: var(--bg1);
   top: 0;
+  width: 100%;
+  left: 0;
   z-index: 2;
   flex-wrap: wrap;
   display: flex;
